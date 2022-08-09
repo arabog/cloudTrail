@@ -26,7 +26,7 @@ If the encryption is enabled, CloudTrail will encrypt log files by using the AWS
 Step 2 - Events and Management details - Choose the types of events you want to log. There are three categories of events - Management events, Data events (operations performed within a resource), and Insights events (unusual activity, errors, or user behavior).  
 ![trail3](trail3.png?raw=true "trail3")
 
-![trial4](trial4.png?raw=true "trial4")
+![trial4](trail4.png?raw=true "trial4")
 ![trail5](trail5.png?raw=true "trail5")
 
 ### C. Dashboard
